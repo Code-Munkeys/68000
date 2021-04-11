@@ -1,7 +1,7 @@
 ; ***************************************
 ; * Written by Franz Ayestaran 14/11/90 *
 
-; A 68000 assebmly routine that scrolls up and down a set of Red / Green / Blue / Grey
+; A 68000 assembly routine that scrolls up and down a set of Red / Green / Blue / Grey
 ; gradient colour bars using the background colour register vertical beam position.
 
           ;*****************
